@@ -1,0 +1,63 @@
+body{
+margin: auto;
+}
+#testa1 {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 10px 10px 10px 10px;
+}
+#sottotesta1{
+  background-color: aliceblue;
+  padding: 30px 0 30px 0;
+  margin: auto;
+}
+/*************************************/
+#listatesta1{
+  text-align: center;
+}
+#listatesta1 a:hover{
+background-color: rgb(238, 238, 238);
+}
+#listatesta1 li{
+  width: 500px;
+  display: inline-block;
+  background-color: aliceblue;
+}
+/***************************************/
+
+/***************qui i tre link****************/
+a,img {
+  display: block;
+}
+
+a{
+  text-align: center;
+  padding: 30px 0 30px 0;
+  text-decoration: none;
+}
+/***********qui img è al 100% rispetto al box del link*****************/
+img{
+  width: 100%;
+}
+/*********************************************/
+#term {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+}
+#term a {
+  text-align: left;
+}
+
+#immagini{
+  text-align: center;
+}
+
+/***********body ricette********************/
+
+#ricetta{
+  padding: 30px 30px 30px 30px;
+}
+
+#home{
+  text-align: left;
+  margin: auto;
+}
